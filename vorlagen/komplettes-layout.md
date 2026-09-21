@@ -37,6 +37,7 @@ style: |
     border: 2px solid #e07a5f;
     border-radius: 10px;
     text-align: left;
+    background: #f4f1de;
   }
 
   .fusszeile {

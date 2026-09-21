@@ -30,6 +30,7 @@ style: |
     padding: 18px;
     background: #e8f1f8;
     text-align: left;
+    border-radius: 14px;
   }
 
   .fusszeile {

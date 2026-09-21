@@ -34,6 +34,7 @@ style: |
     padding: 20px;
     background: #f4d35e;
     font-weight: bold;
+    border-radius: 20px;
   }
 
   .fusszeile {

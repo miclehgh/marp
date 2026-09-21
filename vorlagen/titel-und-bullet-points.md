@@ -18,10 +18,28 @@ style: |
     color: #17324d;
   }
 
+  .layout {
+    display: grid;
+    grid-template-columns: 1.4fr 0.8fr;
+    gap: 24px;
+    width: 100%;
+    align-items: start;
+  }
+
   .liste {
-    width: 80%;
+    padding: 18px 20px;
+    background: #f7f9fc;
+    border-left: 6px solid #17324d;
     text-align: left;
-    font-size: 1.1rem;
+    font-size: 1.05rem;
+  }
+
+  .notiz {
+    padding: 18px;
+    background: #fff3cd;
+    border: 1px solid #d9b32d;
+    text-align: left;
+    font-weight: bold;
   }
 
   .fusszeile {
@@ -40,14 +58,21 @@ style: |
 
 </div>
 
-<div class="liste">
+<div class="layout">
+  <div class="liste">
 
-- Ich spiele gerne Fußball.
-- Ich trainiere zweimal pro Woche.
-- Am Wochenende spiele ich mit meinem Team.
+  - Ich spiele gerne Fußball.
+  - Ich trainiere zweimal pro Woche.
+  - Am Wochenende spiele ich mit meinem Team.
 
+  </div>
+  <div class="notiz">
+
+  Freizeit macht Spaß, wenn sie regelmäßig und mit Motivation passiert.
+
+  </div>
 </div>
 
 <div class="fusszeile">
-  Mein Hobby · Überschrift mit Bullet-Points und einfacher Fußzeile
+  Mein Hobby · Bullet-Points mit Zusatznotiz statt nur einer Liste
 </div>

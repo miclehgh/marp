@@ -29,6 +29,7 @@ style: |
     padding: 18px;
     border: 2px solid #7aa7c7;
     text-align: left;
+    border-radius: 14px;
   }
 
   .fusszeile {

@@ -7,6 +7,7 @@ style: |
     --dunkel: #182b49;
     --akzent: #e07a5f;
     --hell: #f4f1de;
+    --etwas_heller: #f0f4f8;
   }
 
   section {
@@ -34,7 +35,7 @@ style: |
 
   .spalte {
     padding: 18px;
-    background: white;
+    background: var(--etwas_heller);
     border-top: 6px solid var(--akzent);
     text-align: left;
   }

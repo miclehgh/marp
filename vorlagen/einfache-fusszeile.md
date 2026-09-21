@@ -18,8 +18,11 @@ style: |
     color: #17324d;
   }
 
-  .liste {
+  .box {
     width: 80%;
+    padding: 18px 24px;
+    background: #edf5fb;
+    border-left: 6px solid #17324d;
     text-align: left;
   }
 
@@ -35,19 +38,19 @@ style: |
 
 <div class="titel">
 
-# Meine Lernziele
+# Lernziel-Checkliste
 
 </div>
 
-<div class="liste">
+<div class="box">
 
-- Ich kann eine Überschrift zentrieren.
-- Ich kann eine Liste erstellen.
-- Ich kann CSS-Klassen verwenden.
+- Überschriften können zentral platziert werden.
+- Listen lassen sich sauber strukturieren.
+- CSS-Klassen helfen, Layouts gezielt zu steuern.
 
 </div>
 
 <div class="fusszeile">
-  Meine Lernziele · Überschrift, Liste und einfache Fußzeile
+  Lernziel-Checkliste · Einfache Grundstruktur mit farbigem Hinweisfeld
 </div>
 

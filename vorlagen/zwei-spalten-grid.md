@@ -35,6 +35,7 @@ style: |
     background: #f0f4f8;
     border-top: 5px solid rgb(100, 20, 40);
     text-align: left;
+    border-radius: 10px;
   }
 
   .fusszeile {
