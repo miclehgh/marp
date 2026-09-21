@@ -76,6 +76,6 @@ style: |
 </div>
 
 <div class="fusszeile">
-  CSS-Variablen machen Farben leichter änderbar.
+  Nachhaltige Stadt · Zwei Spalten mit CSS-Variablen
 </div>
 

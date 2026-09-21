@@ -77,5 +77,5 @@ style: |
 </div>
 
 <div class="fusszeile">
-  Layout mit CSS Grid; drei Karten
+  Kompetenzen für die Zukunft · Drei Karten mit CSS Grid
 </div>

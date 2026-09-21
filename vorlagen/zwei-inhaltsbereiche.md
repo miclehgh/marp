@@ -70,5 +70,5 @@ style: |
 </div>
 
 <div class="fusszeile">
-  Layout mit zwei Inhaltsbereichen
+  Schule und Freizeit · Zwei Inhaltsbereiche mit unterschiedlicher Bedeutung
 </div>

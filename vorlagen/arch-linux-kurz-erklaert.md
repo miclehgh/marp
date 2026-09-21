@@ -74,5 +74,5 @@ style: |
 </div>
 
 <div class="fusszeile">
-  Arch Linux kurz erklärt · Beispiel für Text und Bild
+  Arch Linux · Distribution mit Paketmanager, Text und Logo
 </div>

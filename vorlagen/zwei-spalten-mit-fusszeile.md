@@ -69,6 +69,6 @@ style: |
 </div>
 
 <div class="fusszeile">
-  Präsentationsdesign
+  Eine gute Präsentation · Zwei Spalten mit Inhalt und Gestaltung
 </div>
 

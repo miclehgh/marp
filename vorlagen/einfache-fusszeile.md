@@ -48,6 +48,6 @@ style: |
 </div>
 
 <div class="fusszeile">
-  Layout-Grundlagen
+  Meine Lernziele · Überschrift, Liste und einfache Fußzeile
 </div>
 

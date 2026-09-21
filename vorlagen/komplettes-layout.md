@@ -84,6 +84,6 @@ style: |
 </div>
 
 <div class="fusszeile">
-  <span>Kopfzeile, zwei Spalten, Fußzeile; Rahmen</span>
+  <span>Vom Problem zur Lösung · Problem, Vorgehen und Checkliste</span>
 </div>
 

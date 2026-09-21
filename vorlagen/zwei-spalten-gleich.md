@@ -70,5 +70,5 @@ style: |
 </div>
 
 <div class="fusszeile">
-  Layout mit CSS Grid; Überschrift, zwei Spalten, Fußzeile
+  Zwei Seiten des Internets · Gleich große Spalten mit Chancen und Risiken
 </div>

@@ -16,7 +16,6 @@ style: |
     width: 100%;
     text-align: center;
     color: #17324d;
-    align-items: end;
   }
 
   .liste {
@@ -50,5 +49,5 @@ style: |
 </div>
 
 <div class="fusszeile">
-  Layout-Grundlage; Überschrift und Bullet-Points
+  Mein Hobby · Überschrift mit Bullet-Points und einfacher Fußzeile
 </div>

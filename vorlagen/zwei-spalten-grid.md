@@ -75,5 +75,5 @@ style: |
 </div>
 
 <div class="fusszeile">
-  Layout mit CSS Grid; Kopfzeile, zwei Spalten, Fußzeile
+  CSS Grid: Zwei Spalten · Gleich breite Spalten mit Bereichs-Layout
 </div>

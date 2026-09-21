@@ -66,5 +66,5 @@ style: |
 </div>
 
 <div class="fusszeile">
-  Layout mit CSS Grid; Verhältnis 2fr zu 1fr
+  Warum erneuerbare Energie? · 2:1-Grid mit Merksatz und Begründung
 </div>

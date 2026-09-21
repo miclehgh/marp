@@ -52,5 +52,5 @@ style: |
 </div>
 
 <div class="fusszeile">
-  Layout-Grundlage; Farben und Listen
+  Drei wichtige Regeln · Titel, Liste und farbige Gestaltung
 </div>

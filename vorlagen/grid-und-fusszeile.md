@@ -34,6 +34,7 @@ style: |
     padding: 16px;
     background: #f4d35e;
     text-align: left;
+    border-radius: 14px;
   }
 
   .fusszeile {
@@ -55,10 +56,10 @@ style: |
 <div class="grid-2">
   <div class="haupttext">
 
-  - Sprachassistenten erkennen gesprochene Befehle.
-  - Empfehlungssysteme schlagen Inhalte vor.
-  - Übersetzungsprogramme verarbeiten Sprache.
-  - Ergebnisse müssen kritisch geprüft werden.
+- Sprachassistenten erkennen gesprochene Befehle.
+- Empfehlungssysteme schlagen Inhalte vor.
+- Übersetzungsprogramme verarbeiten Sprache.
+- Ergebnisse müssen kritisch geprüft werden.
 
   </div>
   <div class="seiteninfo">
@@ -70,6 +71,5 @@ style: |
 </div>
 
 <div class="fusszeile">
-  Klasse 11 · Technik und Gesellschaft · 2026
+  Künstliche Intelligenz im Alltag · Zwei Spalten mit Merksatz und Fußzeile
 </div>
-
